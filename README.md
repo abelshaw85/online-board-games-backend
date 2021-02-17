@@ -7,6 +7,10 @@ You can visit the frontend repo here: https://github.com/abelshaw85/online-board
 
 A demo of this application can be found here: https://abelshaw85.github.io/online-board-games/
 
+## Unimplemented Functionality
+Currently Websockets emit to every connected user, regardless of whether the user is viewing a specific game or not. Would like to change this to use the principal/username and emit only to those users.
+Games are currently stored in-memory, could be made to persist instead.
+
 ## Installation
 
 Rename the application-demo.properties to application.properties and change the properties to your own. Your user database will need the following tables:
