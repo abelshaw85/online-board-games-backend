@@ -1,0 +1,105 @@
+{
+	"Size": 9,
+	"Black": [
+		{
+			"pieceName": "SHO-King General",
+			"position": {
+				"row": 8,
+				"col": 4
+			}
+		},
+		{
+			"pieceName": "SHO-Gold General",
+			"position": {
+				"row": 8,
+				"col": 3
+			}
+		},
+		{
+			"pieceName": "SHO-Gold General",
+			"position": {
+				"row": 8,
+				"col": 5
+			}
+		},
+		{
+			"pieceName": "SHO-Silver General",
+			"position": {
+				"row": 8,
+				"col": 2
+			}
+		},
+		{
+			"pieceName": "SHO-Silver General",
+			"position": {
+				"row": 8,
+				"col": 6
+			}
+		},
+		{
+			"pieceName": "SHO-Knight",
+			"position": {
+				"row": 8,
+				"col": 1
+			}
+		},
+		{
+			"pieceName": "SHO-Knight",
+			"position": {
+				"row": 8,
+				"col": 7
+			}
+		},
+		{
+			"pieceName": "SHO-Lance",
+			"position": {
+				"row": 8,
+				"col": 0
+			}
+		},
+		{
+			"pieceName": "SHO-Lance",
+			"position": {
+				"row": 8,
+				"col": 8
+			}
+		},
+		{
+			"pieceName": "SHO-Bishop",
+			"position": {
+				"row": 7,
+				"col": 1
+			}
+		},
+		{
+			"pieceName": "SHO-Rook",
+			"position": {
+				"row": 7,
+				"col": 7
+			}
+		},
+		{
+			"pieceName": "SHO-Pawn",
+			"position": {
+				"row": 6,
+				"col": 0
+			}
+		}
+	],
+	"White": [
+		{
+			"pieceName": "SHO-Bishop",
+			"position": {
+				"row": 1,
+				"col": 7
+			}
+		},
+		{
+			"pieceName": "SHO-Rook",
+			"position": {
+				"row": 1,
+				"col": 1
+			}
+		}
+	]
+}

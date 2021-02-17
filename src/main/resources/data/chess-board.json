@@ -1,0 +1,68 @@
+{
+	"Size": 8,
+	"White": [
+		{
+			"pieceName": "CHE-Rook",
+			"position": {
+				"row": 7,
+				"col": 0
+			}
+		},
+		{
+			"pieceName": "CHE-Knight",
+			"position": {
+				"row": 7,
+				"col": 1
+			}
+		},
+		{
+			"pieceName": "CHE-Bishop",
+			"position": {
+				"row": 7,
+				"col": 2
+			}
+		},
+		{
+			"pieceName": "CHE-Queen",
+			"position": {
+				"row": 7,
+				"col": 3
+			}
+		},
+		{
+			"pieceName": "CHE-King",
+			"position": {
+				"row": 7,
+				"col": 4
+			}
+		},
+		{
+			"pieceName": "CHE-Bishop",
+			"position": {
+				"row": 7,
+				"col": 5
+			}
+		},
+		{
+			"pieceName": "CHE-Knight",
+			"position": {
+				"row": 7,
+				"col": 6
+			}
+		},
+		{
+			"pieceName": "CHE-Rook",
+			"position": {
+				"row": 7,
+				"col": 7
+			}
+		},
+		{
+			"pieceName": "CHE-Pawn",
+			"position": {
+				"row": 6,
+				"col": 0
+			}
+		}
+	]
+}

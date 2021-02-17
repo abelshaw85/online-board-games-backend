@@ -1,0 +1,175 @@
+{
+	"Size": 8,
+	"White": [
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 0,
+				"col": 1
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 0,
+				"col": 3
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 0,
+				"col": 5
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 0,
+				"col": 7
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 1,
+				"col": 0
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 1,
+				"col": 2
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 1,
+				"col": 4
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 1,
+				"col": 6
+			}
+		},
+				{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 2,
+				"col": 1
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 2,
+				"col": 3
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 2,
+				"col": 5
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 2,
+				"col": 7
+			}
+		}
+	],
+	"Black": [
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 5,
+				"col": 0
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 5,
+				"col": 2
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 5,
+				"col": 4
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 5,
+				"col": 6
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 6,
+				"col": 1
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 6,
+				"col": 3
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 6,
+				"col": 5
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 6,
+				"col": 7
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 7,
+				"col": 0
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 7,
+				"col": 2
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 7,
+				"col": 4
+			}
+		},
+		{
+			"pieceName": "DRA-Piece",
+			"position": {
+				"row": 7,
+				"col": 6
+			}
+		}
+	]
+}
