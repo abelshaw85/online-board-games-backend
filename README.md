@@ -11,18 +11,18 @@ A demo of this application can be found here: https://abelshaw85.github.io/onlin
 
 Rename the application-demo.properties to application.properties and change the properties to your own. Your user database will need the following tables:
 **users**
-> username (varchar)
-> password (varchar, at least 68 chars for BCrypted strings)
-> enabled (boolean/tinyint)
+* username (varchar)
+* password (varchar, at least 68 chars for BCrypted strings)
+* enabled (boolean/tinyint)
 
 **roles**
-> id (int)
-> name (varchar)
+* id (int)
+* name (varchar)
 Populate this with your required roles, only ROLE_USER is used in this application.
 
 **users_roles**
-> role_id (int)
-> user_name (varchar)
+* role_id (int)
+* user_name (varchar)
 Will need FK enforcement to above tables.
 
 ## Usage
